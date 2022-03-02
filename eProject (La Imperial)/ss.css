@@ -1,0 +1,16 @@
+/* nav ul {
+    color: red;
+}
+
+nav li {
+    color: red;
+}
+
+nav a {
+    color: red;
+} */
+
+a.active,
+a:hover {
+    color: rgb(27, 133, 231);
+}
